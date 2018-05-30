@@ -207,6 +207,8 @@ Here is a sample list of questions that you should ask a student each time you m
 * Did you complete stretch project III and send it to basecamp@devmountain.com?
 </details>
 
+Please also add each student to the #web-precourse channel on Slack and let them know it is a great resource to get more feedback than their weekly meetings.
+
 ## Student FAQs
 **What is Basecamp?**
 
@@ -214,7 +216,7 @@ Basecamp is a set of pre-course material for students before they attend DevMoun
 
 **Will I have help during Basecamp?**
 
-Absolutely! Learning to code can be difficult and we want to make this process as seamless as possible. Students will have access to weekly meetings with mentors to cover anything that might still be a little fuzzy. There will also be twice-weekly live QA/Review sessions where students will get to put what they have learned into practice. These QA/Review sessions will be recorded for later viewing as well.
+Absolutely! Learning to code can be difficult and we want to make this process as seamless as possible. Students will have access to weekly meetings with mentors to cover anything that might still be a little fuzzy.
 
 **Does Basecamp cost anything**
 
@@ -231,7 +233,7 @@ We will be giving students 6 weeks to complete Basecamp. We anticipate this will
 ## Mentor FAQ
 **When will I be paid for Basecamp?**
 
-Basecamp pay between Monday - Friday, 9-5 will paid with your normal pay. Any work done outside those times will be paid once a month at the end of the month.
+Basecamp will be paid bi-weekly. Be sure to enter your hours into Stella.
 
 **Can I text and call my students?**
 
